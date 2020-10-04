@@ -23,5 +23,5 @@ public class Test1 {
  * 
  * For Operation<T extends Integer>, even though main method uses raw type, but
  * x and y will be of Integer type and hence x + y will not cause any
- * compilation error.
+ * compilation error. --
  */
